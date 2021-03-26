@@ -16,23 +16,22 @@ text-align: center;}
 
 h6 { text-align: center;
 	font-weight: bolder; }
+h5 {text-align: center}
 
 #image2 { display: block; 
 	margin-left: auto; margin-right: auto; width: 35%;
 	margin-top: 20px; } 
 
-a { color: #ff8000; }
+a { color: #97F5F5; }
+
+
 
 .bg {
 /* The image used */
-background-image: url("../images/BANNERLALALA.2jpg.jpg");
-
-
+background-image: url("../images/BANNERLALALA.2jpg.jpg") ;
 
 /* Full height */
 height: 100%;
-
-
 
 /* Center and scale the image nicely */
 background-position: center;
