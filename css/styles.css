@@ -22,3 +22,20 @@ h6 { text-align: center;
 	margin-top: 20px; } 
 
 a { color: #ff8000; }
+
+.bg {
+/* The image used */
+background-image: url("../images/BANNERLALALA.2jpg.jpg");
+
+
+
+/* Full height */
+height: 100%;
+
+
+
+/* Center and scale the image nicely */
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+} 
