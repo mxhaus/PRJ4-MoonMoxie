@@ -39,4 +39,6 @@ background-repeat: no-repeat;
 background-size: cover;
 } 
 
+.list-unstyled { text-align: center}
+
 #panda { width: 250px; }
