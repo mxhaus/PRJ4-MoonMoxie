@@ -38,9 +38,15 @@ background-repeat: no-repeat;
 background-size: cover;
 } 
 
+.p-3 {
+  padding: .3 !important;
+}
+
 .list-unstyled { text-align: center}
 
 #panda { width: 250px; }
 
 #logo {width: 150px;
-        text-align:"left"}
+        text-align:"left";}
+
+#navbar {text-align:"right";}
