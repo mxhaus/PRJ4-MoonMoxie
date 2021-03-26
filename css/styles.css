@@ -25,7 +25,6 @@ h5 {text-align: center}
 a { color: #D0D1FF; }
 
 
-
 .bg {
 /* The image used */
 background-image: url("../images/BANNERLALALA.2jpg.jpg") ;
@@ -42,3 +41,6 @@ background-size: cover;
 .list-unstyled { text-align: center}
 
 #panda { width: 250px; }
+
+#logo {width: 150px;
+        text-align:"left"}
