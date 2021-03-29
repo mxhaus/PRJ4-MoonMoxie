@@ -37,6 +37,7 @@ background-size: cover;
 }
 
 /*about us page*/
+
 .bg2 {
 /* The image used */
 background-image: url("../images/bannernew.png") ;
@@ -52,7 +53,7 @@ background-size: auto;
 
 h1 {text-align: center;
 	color: #122237;
-padding-top: 40px;}
+padding-top: 15px;}
 
 .aboutus {text-align: left}
 
