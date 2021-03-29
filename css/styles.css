@@ -80,12 +80,9 @@ padding-top: 15px;}
 
 
 /* navbar */
+ /* p-3 is an error, needs to be fixed */
  
-.p-3 {
-  padding: .3 !important;
-} 
-
-#navbar {text-align: "right" ;}
+#navbar {text-align: right;}
 
 .list-unstyled { text-align: center}
 
@@ -101,4 +98,4 @@ text-align: center;}
 #panda { width: 250px; }
 
 #logo {width: 150px;
-        text-align:"left";}
+        text-align:left;}
