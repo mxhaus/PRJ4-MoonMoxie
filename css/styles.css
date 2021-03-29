@@ -36,6 +36,29 @@ background-size: cover;
 	padding-right: 30px; 
 }
 
+/*about us page*/
+.bg2 {
+/* The image used */
+background-image: url("../images/bannernew.png") ;
+
+/* Full height */
+height: 40%;
+
+/* Center and scale the image nicely */
+background-position:top;
+background-repeat: no-repeat;
+background-size: auto;
+} 
+
+h1 {text-align: center;
+	color: #122237;
+padding-top: 40px;}
+
+.aboutus {text-align: left}
+
+#aboutpanda {margin-left: 120px;
+			padding-top: 40px; padding-bottom: 20px;}
+
 
 /* navbar */
  
