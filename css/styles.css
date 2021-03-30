@@ -128,3 +128,28 @@ text-align: center;}
 	input[type=submit]:hover {
 	  background-color: thistle;
 	}
+
+/* Contact page: social media */
+
+	.reddit {
+	
+	color: #E3AFF1;
+	
+	}
+
+	.youtube {
+		
+	color: #EE92E5;
+		
+		}
+
+	.discord  {
+		
+	color: #CE6CCA;
+		
+		}
+
+	.mail {
+		
+	color: #B14DA6;
+		}
