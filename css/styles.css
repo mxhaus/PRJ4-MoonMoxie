@@ -92,7 +92,11 @@ h5 { margin-top:30px;}
 				color: #122237;}
 
 p { line-height: 1.4;
-text-align: center;}
+text-align: center;
+width:65%;
+display: block;
+margin: 0 auto;
+margin-top: 10px;}
 
 #panda { width: 250px; }
 
