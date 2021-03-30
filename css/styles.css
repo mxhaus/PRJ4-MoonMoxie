@@ -30,7 +30,7 @@ background-size: cover;
 
 h3 { text-align: center;}
 
-.container {padding: 50px;}
+.container {padding: 20px; }
 
 
 /*about us page*/
@@ -56,21 +56,12 @@ padding-top: 15px;}
 
 .aboutus {text-align: left}
 
-.vision {text-align: center}
 
-.bigvisionmission {text-align: center;
-					padding-top: 35px;
-					}
-
-.visionmission {text-align: center;
-				color: #9CCCEE;}
-
-.lastvalue {text-align: center;
-				color: #9CCCEE;
-				padding-bottom: 60px;}
 
 #aboutpanda {margin-left: 120px;
-			padding-top: 40px; padding-bottom: 20px;}
+			padding-top: 40px; 
+			padding-bottom: 20px; 
+			width:300px;}
 
 #moonmoxiead {margin-left: 180px;
 			margin-top: 60px;}
@@ -91,7 +82,7 @@ h5 { margin-top:30px;}
 .page-footer { background-color: white;
 				color: #122237;}
 
-p { line-height: 1.4;
+.footertext { line-height: 1.4;
 text-align: center;
 width:65%;
 display: block;
