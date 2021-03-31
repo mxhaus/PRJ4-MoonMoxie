@@ -29,69 +29,80 @@
         <script src="js/bootstrap.bundle.min.js"></script>
         <link rel="stylesheet" type="text/css" href="css/styles.css">
        
-        <header>
+  <header>
            
 	     <!-- <nav class="navbar navbar-expand-lg navbar-light bg-light">-->
-        <nav class="navbar navbar-default navbar-static-top bg-light">
-            <div class="container">
-               <a href="index.html"><img id="logo" alt="Logo" src="images/moonmoxielogo.jpg" class="img-fluid"> </a>
-                          <a href="aboutthebrand.html" class="p-3">ABOUT US</a>
-
-                          <a href="community.html" class="p-3">COMMUNITY</a>
-
-                          <a href="products.html" class="p-3">MERCHANDISE</a>
-
-                          <a href="contact.html" class="p-3">CONTACT</a>
-
-							<a href="designjustifications.html" class="p-3">DESIGN JUSTIFICATIONS</a>
-                
-                
-                  <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                      <ul class="navbar-nav mr-auto"> </ul>
-					  
-                  </div>
-             </div>
-          </nav>
-
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  	<a class="navbar-brand" href="index.html"><img id="logonavbar" alt="Logo" src="images/moonmoxielogo.jpg" class="img-fluid"></a>
+  		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    	<span class="navbar-toggler-icon"></span>
+			<i class="fas fa-bars"></i>
+  		</button>
+  			<div class="collapse navbar-collapse" id="navbarNav">
+    			<ul class="navbar-nav">
+      				<li class="nav-item">
+        				<a class="nav-link" href="aboutthebrand.html"> ABOUT US</a>
+      				</li>
+      				<li class="nav-item">
+        				<a class="nav-link" href="community.html">COMMUNITY</a>
+      				</li>
+      				<li class="nav-item">
+        				<a class="nav-link" href="products.html">MERCHANDISE</a>
+      				</li>
+					<li class="nav-item">
+        				<a class="nav-link" href="contact.html">CONTACT</a>
+      				</li>
+					<li class="nav-item">
+        				<a class="nav-link" href="designjustifications.html">DESIGN JUSTIFICATION</a>
+      				</li>
+    			</ul>
+  			</div>
+	</nav>
              
-        </header>
+</header>
 		
     
-    <div class="bg" >
-    	<div class="container">
-    		<div class="row">
-    			<div class="col">
-					<!-- help we need to find an other solution haha -->
-   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <div class="bg-no-overlay">
+		<div id="jumbotron" class="container">
+			<div class="row">
+				<div class="col">
+		<div class="jumbotron">
+			<h3 class="display-5">MoonMoxie</h3>
+			<h6 class="lead">Coming out 26-03-2022!</h6>
+			<hr class="my-4">
+			<p>The mobile game where you go outside to meet with friends at local hotspots and use the app to compete in online arcade games!</p>
+			<a class="btn btn-primary btn-lg" href="products.html" role="button">Click here for more information!</a>
+	</div>
+				</div>
+				</div>
+			</div>
     			</div>
-    		</div>
-    	</div>
-    </div>
     
-		<div class="container images" id="images">
+		<div class="container" id="images">
 			<div class="row">
 				<div class="col-md-4">
-					<h3 class="feature-title">Discover</h3>
-					<img id="adventureimg" alt="Adventure" src="images/app.png" class="img-fluid" width="230">
-					<p> </p>
+					<div class="text-center">
+						<h3>DISCOVER</h3>
+					</div>
+					<img alt="Adventure" src="images/app.png" class="d-block mx-auto mx-md" width="300">
 				</div>
 				
 				<div class="col-md-4">
-					<h3 class="feature-title">Imagine</h3>
-					<img alt="Imagination" src="images/imaginationv2.jpg" class="img-fluid" width="230">
-					<p></p>
+					<div class="text-center">
+						<h3>IMAGINE</h3>
+					</div>
+					<img src="images/imaginationv2.jpg" alt="imagination" class="d-block mx-auto mx-md" width="300">
 				</div>
 				
 				<div class="col-md-4">
-					<h3 class="feature-title">Be Courageous</h3>
-					<img alt="Courage" src="images/courage.jpg" class="img-fluid" width="230"><br>
-					<p></p>
+					<div class="text-center">
+						<h3>BE COURAGEOUS</h3>
+					</div>
+					<img alt="Courage" src="images/courage.jpg" class="d-block mx-auto mx-md" width="300"><br>
 				</div>
 			</div> 
 		</div>
-		
-		
-		
+			
 <!-- Footer -->
   <footer class="page-footer font-small teal pt-4">
 
@@ -106,8 +117,8 @@
 
           <!-- Content -->
           <h5 class="text-uppercase">MoonMoxie</h5>
-          <p>Discover your courage!</p>
-			<p>"In a world where people tend to live on their own
+          <p class="footertext">Discover your courage!</p>
+			<p class="footertext">"In a world where people tend to live on their own
 				little planet, we believe it is important to go on
 				adventures outside of your comfort zone, into the
 				universe. Only then we can expand our Imagination

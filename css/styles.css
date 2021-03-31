@@ -8,33 +8,36 @@ body { font-family: 'Fira Sans', sans-serif;
 
 h6 { text-align: center;
 	font-weight: bolder; }
+
 h5 {text-align: center}
  
-a { color: #D0D1FF; }
+a { color: #D0D1FF;}
 
 /*background image index */
-.bg {
-/* The image used */
-background-image: url("../images/BANNERLALALA.2jpg.jpg") ;
+.bg-no-overlay {
+    background: url("../images/BANNERLALALA.2jpg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 750px;
+    padding-top: 50px;
+}
 
-/* Full height */
-height: 100%;
+#jumbotron {padding: 30px 20px 60px 830px;
+			color:#122237;
+			text-align: center;
+			}
 
-/* Center and scale the image nicely */
-background-position: center;
-background-repeat: no-repeat;
-background-size: cover;
-} 
+.btn {background-color: #F5CCE0 !important;
+	color: #122237 !important;}
+
 
 /* index middle part */
 
+h3 { text-align: center;}
 
-#images {
-	padding-top: 80px;
-	padding-bottom: 60px;
-	padding-left: 30px;
-	padding-right: 30px; 
-}
+.container {padding: 20px; }
+
 
 /*about us page*/
 
@@ -55,44 +58,48 @@ h1 {text-align: center;
 	color: #122237;
 padding-top: 15px;}
 
-.whoarewe {padding-top: 15px;}
+.whoarewe {padding-top: 15px;
+			text-align: left;}
 
 .aboutus {text-align: left}
 
-.vision {text-align: center}
-
-.bigvisionmission {text-align: center;
-					padding-top: 35px;
-					}
-
-.visionmission {text-align: center;
-				color: #9CCCEE;}
-
-.lastvalue {text-align: center;
-				color: #9CCCEE;
-				padding-bottom: 60px;}
-
 #aboutpanda {margin-left: 120px;
-			padding-top: 40px; padding-bottom: 20px;}
+			padding-top: 40px; 
+			padding-bottom: 20px; 
+			width:300px;}
 
 #moonmoxiead {margin-left: 180px;
 			margin-top: 60px;}
 
 
 /* navbar */
- 
-#navbar {text-align: right;}
 
-.list-unstyled { text-align: center}
+#logonavbar {width: 180px;
+        text-align:right;}
+
+.navbar .nav-item {padding: 10px 10px 10px 70px;}
+
+.navbar .nav-link {font-size: 15px;}
+
+nav .navbar-nav li a{
+  color: #122237 !important;
+  }
 
 /* Footer */
 
 h5 { margin-top:30px;}
 
-.page-footer { background-color: white;}
+.list-unstyled {text-align: center;}
 
-p { line-height: 1.4;
-text-align: center;}
+.page-footer { background-color: white;
+				color: #122237;}
+
+.footertext { line-height: 1.4;
+text-align: center;
+width:65%;
+display: block;
+margin: 0 auto;
+margin-top: 10px;}
 
 #panda { width: 250px; }
 
