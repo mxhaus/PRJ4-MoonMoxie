@@ -67,17 +67,18 @@ padding-top: 15px;}
 
 .aboutus {text-align: left}
 
-.whatisthecommunity {padding-top: 15px;
-			text-align: left;}
 
 .thisisthecommunity {padding-top: 15px;
-                    text-align: left;}
+                    text-align: left;
+display:block;
+            margin: auto;}
 
 .designjustifications {padding-top: 15px;
                     text-align: left;}
 
 #communityimg {align-content: center;
 			padding-top: 40px; 
+
 			padding-bottom: 20px; 
 			width:300px;}
 
