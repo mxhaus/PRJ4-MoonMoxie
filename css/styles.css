@@ -142,25 +142,8 @@ margin-top: 10px;}
 
 /* Contact page: social media */
 
-	.reddit {
-	
-	color: #E3AFF1;
-	
-	}
-
-	.youtube {
+	#socialmedia {
 		
-	color: #EE92E5;
+	margin-left: 30%;
 		
-		}
-
-	.discord  {
-		
-	color: #CE6CCA;
-		
-		}
-
-	.mail {
-		
-	color: #B14DA6;
 		}
