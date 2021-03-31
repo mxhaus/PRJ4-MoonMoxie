@@ -23,6 +23,14 @@ a { color: #D0D1FF;}
     padding-top: 50px;
 }
 
+#jumbotron {padding: 30px 20px 60px 830px;
+			color:#122237;
+			text-align: center;
+			}
+.btn {background-color: #F5CCE0 !important;
+	color: #122237 !important;}
+
+
 /* index middle part */
 
 h3 { text-align: center;}
