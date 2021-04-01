@@ -6,6 +6,11 @@ body { font-family: 'Fira Sans', sans-serif;
 	background-color: #122237; 
 	}  
 
+html, body {
+    overflow-x: hidden;
+}
+
+
 h6 { text-align: center;
 	font-weight: bolder; }
 
@@ -67,6 +72,21 @@ padding-top: 15px;}
 
 .aboutus {text-align: left}
 
+
+.thisisthecommunity {padding-top: 15px;
+                    text-align: left;
+display:block;
+            margin: auto;}
+
+.designjustifications {padding-top: 15px;
+                    text-align: left;}
+
+#communityimg {align-content: center;
+			padding-top: 40px; 
+
+			padding-bottom: 20px; 
+			width:300px;}
+
 #aboutpanda {margin-left: 120px;
 			padding-top: 40px; 
 			padding-bottom: 20px; 
@@ -106,6 +126,9 @@ margin: 0 auto;
 margin-top: 10px;}
 
 #panda { width: 250px; }
+
+#pandaback {width: 180px
+		text-align: center;}
 
 #logo {width: 150px;
         text-align:left;}
