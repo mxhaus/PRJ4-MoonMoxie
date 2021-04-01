@@ -92,24 +92,8 @@ padding-top: 15px;}
 
 .aboutus {text-align: left}
 
-
-.thisisthecommunity {padding-top: 15px;
-                    text-align: left;
-display:block;
-            margin: auto;}
-
 .designjustifications {padding-top: 15px;
                     text-align: left;}
-
-.containercommunity{padding: 0 50px;}
-
-#communityimg {align-content: center;
-			padding-top: 20px; 
-			padding-bottom: 20px; 
-			width:300px;
-            margin: 0 auto;
-             display: flex;
-            align-items: center;}
 
 #aboutpanda {margin-left: 120px;
 			padding-top: 40px; 
@@ -206,9 +190,33 @@ margin-top: 10px;}
 	text-align: center;
 		
         }
+
+/*community page */
+
     #socialmedia2 {
 
         display: flex;
         align-items: center;
         justify-content: center;
             }
+
+        .containercommunity{padding: 0 50px;}
+
+        #communityimg {align-content: center;
+                    padding-top: 20px; 
+                    padding-bottom: 20px; 
+                    width:300px;
+                    margin: 0 auto;
+                     display: flex;
+                    align-items: center;}
+
+        .thisisthecommunity {padding-top: 15px;
+                            text-align: left;
+                            display:block;
+                            margin: auto;}
+
+.scheduleheader {text-align: center
+                display:block;
+                margin: auto;}
+
+.schedule {}
