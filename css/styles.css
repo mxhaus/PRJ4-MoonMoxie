@@ -51,7 +51,8 @@ h3 { text-align: center;}
 
 .testimonial {padding: 10px 10px 10px 10px;}
 
-#testimonialheader {padding-bottom: 10px;}
+#testimonialheader {padding-bottom: 10px;
+					text-align: center;}
 
 .testimonialtext {color: #122237;}
 
