@@ -127,7 +127,9 @@ margin-top: 10px;}
 
 #panda { width: 250px; }
 
-#pandaback {width: 200px}
+#pandaback {width: 180px
+		text-align: center;}
+
 #logo {width: 150px;
         text-align:left;}
 
