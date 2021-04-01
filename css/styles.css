@@ -135,11 +135,16 @@ margin-top: 10px;}
 
 #panda { width: 250px; }
 
-#pandaback {width: 190px
-		text-align: center; }
+#pandaback {align-content: center;
+			padding-top: 20px; 
+			padding-bottom: 20px; 
+			width:300px;
+            margin: 0 auto;
+             display: flex;
+            align-items: center;}
 
-#colorpalette {width: 160px
-		text-align: center;}
+#colorpalette {width: 250px;
+		align-content: center; }
 
 #logo {width: 150px;
         text-align:left;}
