@@ -54,7 +54,8 @@ h3 { text-align: center;}
 #testimonialheader {padding-bottom: 10px;
 					text-align: center;}
 
-.testimonialtext {color: #122237;}
+.testimonialtext {color: #122237;
+					padding:5px;}
 
 .card-image {
     width: 130px;
@@ -385,7 +386,7 @@ margin-top: 10px;}
     color: #ffffff;
     background-color: #0b9d8a;
     box-shadow: 2px 2px 30px rgba(0,0,0,0.1);
-    display: none;
+	display: none;
     animation: fade 0.3s;
  
 }
