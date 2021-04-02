@@ -229,6 +229,10 @@ margin-top: 10px;}
                 display: block;
                 margin: auto;}
 
+.event-container {border: 1px solid #f7f7f7;
+                border-radius: 10px;
+               }
+
 /* product page*/
 /* banner */
 
