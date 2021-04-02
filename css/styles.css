@@ -225,7 +225,9 @@ margin-top: 10px;}
                 display: block;
                 margin: auto;}
 
-.schedule {}
+.schedule {text-align: center;
+                display: block;
+                margin: auto;}
 
 /* product page*/
 /* banner */
