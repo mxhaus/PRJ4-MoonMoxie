@@ -464,3 +464,7 @@ h2 { font-family: 'Fira Sans', sans-serif;
     margin: 0px;
     font-size: 0.9rem;
 }
+
+.resize {
+	height: 50px;
+}
