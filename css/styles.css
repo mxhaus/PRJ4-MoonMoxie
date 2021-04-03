@@ -143,7 +143,7 @@ margin-top: 10px;}
 
 #pandaback {align-content: center;
 			padding-top: 20px; 
-			padding-bottom: 20px; 
+			padding-bottom: 10px; 
 			width:220px;
             margin: 0 auto;
              display: flex;
@@ -157,10 +157,18 @@ margin-top: 10px;}
              display: flex;
             align-items: center; }
 
-/* styiling links might delete this */
-.design-container {border: 1px solid #f7f7f7;
-                border-radius: 10px;}
+.designtekst{
+    background-color: white;
+    color: #122237;
+}
 
+.designlink{ 
+    color: #976CF1;
+}
+
+.design-container {border: 1px solid #f7f7f7;
+                border-radius: 10px;
+               }
 
 #logo {width: 150px;
         text-align:left;}
