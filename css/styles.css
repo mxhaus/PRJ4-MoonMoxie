@@ -142,17 +142,17 @@ margin-top: 10px;}
 #panda { width: 250px; }
 
 #pandaback {align-content: center;
-			padding-top: 15px; 
-			padding-bottom: 8px; 
+			padding-top: 12px; 
+			padding-bottom: 5px; 
 			width:220px;
             margin: 0 auto;
              display: flex;
             align-items: center;}
 
 #colorpalette {align-content: center;
-			padding-top: 15px; 
-			padding-bottom: 20px; 
-			width:290px;
+			padding-top: 8px; 
+			padding-bottom: 22px; 
+			width:310px;
             margin: 0 auto;
              display: flex;
             align-items: center; }
