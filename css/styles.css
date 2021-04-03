@@ -144,7 +144,7 @@ margin-top: 10px;}
 #pandaback {align-content: center;
 			padding-top: 20px; 
 			padding-bottom: 20px; 
-			width:230px;
+			width:220px;
             margin: 0 auto;
              display: flex;
             align-items: center;}
@@ -152,10 +152,15 @@ margin-top: 10px;}
 #colorpalette {align-content: center;
 			padding-top: 20px; 
 			padding-bottom: 20px; 
-			width:250px;
+			width:280px;
             margin: 0 auto;
              display: flex;
             align-items: center; }
+
+/* styiling links might delete this */
+.design-container {border: 1px solid #f7f7f7;
+                border-radius: 10px;}
+
 
 #logo {width: 150px;
         text-align:left;}
