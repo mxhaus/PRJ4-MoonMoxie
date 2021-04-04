@@ -258,7 +258,6 @@ margin-top: 10px;}
     justify-content: center;
     align-items: center;
     background-image: url(../images/bannergirl.jpg);
-    /* still need to adjust this photo*/
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -306,8 +305,13 @@ margin-top: 10px;}
     margin-top: 14px;
 }
 
-.banner-text strong font{
+.banner-text strong span{
     color: #836bed;
+     font-size: 3rem;
+    line-height: 55px;
+    margin-top: 10px;
+    letter-spacing: 1px;
+    font-weight:700;
 }
 
 /*shop lay-out*/
